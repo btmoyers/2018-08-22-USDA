@@ -501,7 +501,7 @@ collaborative_notes: "https://hackmd.io/Kz-N2DzZQg2S3oJVTCk2FA?both"       # opt
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>. You will also need to install the R packages <a href="https://cran.r-project.org/web/packages/tidyverse/index.html">tidyverse</a> and <a href="https://cran.r-project.org/web/packages/rmarkdown/index.html">rmarkdown</a>.
+    <a href="https://www.rstudio.com/">RStudio</a>. You will also need to install the R packages <a href="https://cran.r-project.org/web/packages/tidyverse/index.html">tidyverse</a> and <a href="https://cran.r-project.org/web/packages/rmarkdown/index.html">rmarkdown</a>. <a href="https://www.r-bloggers.com/installing-r-packages/">Here</a> is a short explanation about how to install R package.
   </p>
 
   <div class="row">
